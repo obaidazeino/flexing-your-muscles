@@ -41,6 +41,8 @@ img {
 .footer ul {
   padding-left: 0;
   list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
 }
 
 footer a {
@@ -50,6 +52,7 @@ footer a {
 .social {
   display: flex;
   margin-left: auto;
+  padding: 0 1rem;
 }
 
 .footer h2 {
@@ -57,15 +60,7 @@ footer a {
   margin-bottom: 1.5rem;
 }
 
-.footer ul {
-  margin-top: 0;
-  margin-bottom: 1.5rem;
-}
 
 .links {
-  padding: 0 1rem;
-}
-
-.social {
   padding: 0 1rem;
 }
